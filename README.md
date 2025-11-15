@@ -22,3 +22,4 @@ dotnet run // Run the project
 
 ## 📚 Refrence
 - Microsoft Start .NET [Link](https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-7-0)
+- C# Zero-To-Hero [Link](https://github.com/Almantask/CSharp-From-Zero-To-Hero/wiki/Summary)
