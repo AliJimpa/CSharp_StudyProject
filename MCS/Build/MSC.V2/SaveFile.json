@@ -1,0 +1,25 @@
+{
+  "paths": [
+    "C:\\Users\\aliba\\Desktop"
+  ],
+  "backuplist": [
+    {
+      "foldername": "Desktop",
+      "path": "C:\\Users\\aliba\\Desktop",
+      "backuppath": "D:\\Projects\\ConsoleApp\\Archive\\MCS\\Build\\MSC.V2\\Backup\\20241019_180754",
+      "backuptime": "2024-10-19T18:07:57.772872+03:30"
+    },
+    {
+      "foldername": "Desktop",
+      "path": "C:\\Users\\aliba\\Desktop",
+      "backuppath": "D:\\Projects\\ConsoleApp\\Archive\\MCS\\Build\\MSC.V2\\Backup\\20241019_180914",
+      "backuptime": "2024-10-19T18:09:15.5557881+03:30"
+    },
+    {
+      "foldername": "Desktop",
+      "path": "C:\\Users\\aliba\\Desktop",
+      "backuppath": "D:\\Projects\\ConsoleApp\\Archive\\MCS\\Build\\MSC.V2\\Backup\\20241019_181127",
+      "backuptime": "2024-10-19T18:11:28.6838536+03:30"
+    }
+  ]
+}
