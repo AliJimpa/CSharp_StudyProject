@@ -25,10 +25,18 @@ dotnet run // Run the project
 - C# Zero-To-Hero [Link](https://github.com/Almantask/CSharp-From-Zero-To-Hero/wiki/Summary)
 
 ## Applications
-- AJ_Library_Csharp: that my 'C#' library for personal experience & personal work.
+- AJ_Library_Csharp
+  - that my 'C#' library for personal experience & personal work.
 - JustNote
-- MCS: Micro Source Controller withBackup Theory.
+- MCS
+  - Micro Source Controller withBackup Theory.
 - NetworkManager
-- PCCleaner: this windows application use for removing some specific folder from you PC completely. you can set some special path like VisualStudioCode Workspace & after that any time you want you can delete all these folder although you can compair size folder with your last size.
+- PCCleaner
+  - This Windows application use for removing some specific folder from you PC completely. you can set some special path like VisualStudioCode Workspace & after that any time you want you can delete all these folder although you can compair size folder with your last size.
+  - example1: C:\Users\UserName\AppData\Roaming\Code\User\workspaceStorage
+  - example2: C:\Users\UserName\Documents\Megascans Library
+  - example3: C:\Users\UserName\AppData\Local\Microsoft\vscode-cpptools\ipch
+  - example4: C:\Users\UserName\AppData\Local\UnrealEngine\Common\DerivedDataCache\Content
+  - example5: C:\Users\UserName\AppData\Local\Unity\cache\packages
 - WebsiteConnection
 
